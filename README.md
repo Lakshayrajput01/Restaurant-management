@@ -19,7 +19,7 @@ To perform some crud operations and know more about relationship conceots of tab
 
 ``` spring.datasource.username=root ```
 
-``` spring.datasource.password=MySQL@0101 ```
+``` spring.datasource.password=MySQL@00 ```
 
 ``` spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver ```
 
